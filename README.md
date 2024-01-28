@@ -1,5 +1,5 @@
 # Airbnb-Analysis
-Summary
+
 Airbnb is one of the biggest online accomodation renting platform. I tried to analyse the given data at first hand, and develop a predictive model that can predict the price of a listing using different inputs.
 
 Problem Statement :
