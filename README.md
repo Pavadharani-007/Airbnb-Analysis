@@ -2,6 +2,10 @@
 
 Airbnb is one of the biggest online accomodation renting platform. I tried to analyse the given data at first hand, and develop a predictive model that can predict the price of a listing using different inputs.
 
+In this project, which involves the MongoDB Atlas sample Airbnb dataset, our objective is to conduct Exploratory Data Analysis (EDA) by performing data cleaning. Ultimately, we aim to represent the insightful findings in a visually compelling format through storytelling using Power BI.
+
+
+
 Problem Statement :
 
 It effectively communicates the goals of the project, including analyzing Airbnb data using MongoDB Atlas, conducting data cleaning and preparation, and utilizing geospatial visualizations and dynamic plots to uncover insights related to pricing, availability, and location-based trends. If you have any specific questions or if there's anything else you'd like assistance with regarding this project, feel free to let me know!
